@@ -1,0 +1,1 @@
+Math.min(left[i], right[i]) - height[i]
